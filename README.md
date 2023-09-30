@@ -35,8 +35,14 @@
 <!-- Tech Stack Section -->
 <h3 align="center">Tech Stack</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <!-- Add more tech stack icons as needed -->
 </p>
 
+<!-- GitHub Stats Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrayushmehrotra&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
