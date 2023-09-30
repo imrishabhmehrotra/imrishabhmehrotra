@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrayushmehrotra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=imrishabhmehrotra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rishabh Mehrotra</h1>
@@ -9,7 +9,7 @@
 <!-- Badges Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="Focus: Full Stack Development" />
-  <img src="https://img.shields.io/badge/Learning-Next.js%20%7C%20TypeScript%20%7C%20PostgreSQL-blue" alt="Learning: Next.js, TypeScript, PostgreSQL" />
+  <img src="https://img.shields.io/badge/Learning-Next.js%20%7C%20TypeScript%20%7C%20PostgreSQL-blue" alt=" Currently Learning: Next.js, TypeScript, PostgreSQL" />
 </p>
 
 <!-- Introduction Section -->
@@ -44,5 +44,5 @@
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrayushmehrotra&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imrishabhmehrotra&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
