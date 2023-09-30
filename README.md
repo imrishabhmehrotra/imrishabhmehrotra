@@ -40,7 +40,3 @@
   <!-- Add more tech stack icons as needed -->
 </p>
 
-<!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrayushmehrotra&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
