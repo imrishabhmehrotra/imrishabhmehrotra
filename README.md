@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rishabh Mehrotra</h1>
-<h3 align="center">A Passionate Programmer and Learner from India</h3>
+<h3 align="center">A Passionate Programmer and a keen Learner</h3>
 
 <!-- Badges Section -->
 <p align="center">
@@ -15,7 +15,7 @@
 <!-- Introduction Section -->
 <p align="center">
   <samp>
-    Hi, I'm Rishabh Mehrotra, a passionate Full Stack developer from India. I'm currently working on multiple projects with a focus on web development. I love to collaborate on open-source projects and explore new technologies. Connect with me on social media or check out my portfolios to learn more about my work.
+    I'm currently working on multiple projects with a focus on web development. I love to collaborate on open-source projects and explore new technologies. Connect with me on social media or check out my portfolios to learn more about my work.
   </samp>
   <br />
   <br />
