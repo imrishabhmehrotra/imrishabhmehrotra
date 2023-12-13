@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rishabh Mehrotra</h1>
-<h3 align="center">Passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Programmer and Learner from India</h3>
 
 <!-- Badges Section -->
 <p align="center">
